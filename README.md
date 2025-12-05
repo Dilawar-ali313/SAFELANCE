@@ -89,11 +89,6 @@ npm install
 - Decentralized frontend hosting (IPFS/Arweave)  
 - On-chain reputation scoring for freelancers & clients  
 
-## 👨‍💻 Contributors
-- **[Vaibhav Chaturvedi](https://github.com/vaibhavchaturvedi)** – Smart Contracts
-- **[Pratham Jain](https://github.com/pratham27-pro)** – Full Stack Development  
-- **[Priyanshi Sharma](https://github.com/priyanshisharma3)** – UI/UX & Frontend  
-- **[Ujjwal Yadav](https://github.com/Ujjwal5353t)** – Frontend Development  
  
 
 ## 📜 License
